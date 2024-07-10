@@ -76,7 +76,7 @@ text-align: center;
     text-align: center;
 
 }
-.btn-container.btn{
+.btn-btn-container{
 font-family: Azeret Mono;
 position: static;
 font-weight: 400;
@@ -87,14 +87,13 @@ flex-direction: row;
 justify-content: center;
 align-items: center;
 padding: 21px 24px 21px 24px;
-flex: none;
-order: 1;
-flex-grow: 0;
 margin: 32px 0px;
 color: rgb(255, 255, 255);
 background-color: black;
 border-radius: 5px;
 }
+
+
 .btn-learn-more{
 margin: 10px;
 position: static;
